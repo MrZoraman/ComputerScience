@@ -4,3 +4,8 @@ This is a top down guide that's going to guide you though the concepts of comput
 
 # Contents
 [1 - Bases](Chapters/1.Bases.md)
+
+# License
+![License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
